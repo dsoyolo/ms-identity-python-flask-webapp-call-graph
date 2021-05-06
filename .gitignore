@@ -135,3 +135,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+workspace.code-workspace
+aad.config.json
