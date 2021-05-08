@@ -5,8 +5,8 @@
     "framework": "FLASK"
     },
 "client": {
-    "client_id": "846a1cf7-c39c-4de0-b3cb-4444cb9d8f3d",
-    "client_credential": "pk2Sv.59E6Q-Y~5A1_e7f6iqM-xeeWbJz_",
+    "client_id": "e64fd966-5b29-4198-bbc3-e415f2a64b7f",
+    "client_credential": "5Rs-sRFLVq38~1AEvFw0c~l1F6-LS3~cAL",
     "authority": "https://login.microsoftonline.com/739e53d6-6951-4e95-a4c1-d17db54e7543"
     },
 "auth_request": {
